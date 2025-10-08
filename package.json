@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "firebase": "^10.20.0",
+    "firebase": "^10.14.0",
     "html5-qrcode": "^2.3.8",
     "jspdf": "^2.5.1",
     "qrcode": "^1.5.1",
